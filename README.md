@@ -9,9 +9,6 @@
 
 ###
 
-<img src="https://github.com/usuario/repositorio/blob/main/assets/giphy-3-original.gif?raw=true" alt="gif animado" height="150">
-
-
 
 
 
