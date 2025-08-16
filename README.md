@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Eduardo Luciano– Estudante de Engenharia de Software e Ciência de Dados<br><br>Apaixonado por transformar dados e código em soluções reais, desenvolvo projetos que unem robustez, inteligência e criatividade. Com uma base sólida em tecnologia e um olhar analítico vindo da Teologia e do Design, busco criar impacto através do software.</h2>
+<h2 align="left">👨‍💻 Eduardo Luciano– Estudante de Engenharia de Software e Ciência de Dados</h2><br><br><p></p>Apaixonado por transformar dados e código em soluções reais, desenvolvo projetos que unem robustez, inteligência e criatividade. Com uma base sólida em tecnologia e um olhar analítico vindo da Teologia e do Design, busco criar impacto através do software.</p>
 
 ###
 
