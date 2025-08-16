@@ -9,7 +9,10 @@
 
 ###
 
-<img width="414" height="280" alt="image" src="https://github.com/user-attachments/assets/d201745b-3d5b-4951-a822-bc8afde34cc6" />
+<img src="giphy-3-original.gif" alt="gif animado" height="150">
+
+
+
 
 ###
 
